@@ -1,2 +1,5 @@
 user has send an input
 user has send an input
+user has send an input
+The user input is: Yosef
+The user input is: CoreCode
